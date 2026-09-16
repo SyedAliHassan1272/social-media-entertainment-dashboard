@@ -40,8 +40,8 @@ An interactive dashboard built to analyze user behavior around social media and 
 
 1. Clone this repository
 ```bash
-git clone https://github.com/SyedAliHassan1272/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/SyedAliHassan1272/social-media-entertainment-dashboard.git
+cd social-media-entertainment-dashboard
 ```
 
 2. Install the required libraries
@@ -58,11 +58,20 @@ streamlit run social.py
 
 ## 📸 Preview
 
-*(Add a screenshot of your dashboard here once uploaded)*
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.46.56%20PM.jpeg" width="45%" />
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.47.51%20PM.jpeg" width="45%" />
+</p>
 
-```
-![Dashboard Screenshot](dashboard_screenshot.png)
-```
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.01%20PM.jpeg" width="45%" />
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.08%20PM.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.50%20PM.jpeg" width="45%" />
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.50.51%20PM.jpeg" width="45%" />
+</p>
 
 ---
 
