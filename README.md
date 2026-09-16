@@ -59,18 +59,27 @@ streamlit run social.py
 ## 📸 Preview
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-09-16%20at%203.46.56%20PM.jpeg" width="45%" />
-  <img src="WhatsApp%20Image%202026-09-16%20at%203.47.51%20PM.jpeg" width="45%" />
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.46.56%20PM.jpeg" width="80%" />
 </p>
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.01%20PM.jpeg" width="45%" />
-  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.08%20PM.jpeg" width="45%" />
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.47.51%20PM.jpeg" width="80%" />
 </p>
 
 <p align="center">
-  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.50%20PM.jpeg" width="45%" />
-  <img src="WhatsApp%20Image%202026-09-16%20at%203.50.51%20PM.jpeg" width="45%" />
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.01%20PM.jpeg" width="80%" />
+</p>
+
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.08%20PM.jpeg" width="80%" />
+</p>
+
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.49.50%20PM.jpeg" width="80%" />
+</p>
+
+<p align="center">
+  <img src="WhatsApp%20Image%202026-09-16%20at%203.50.51%20PM.jpeg" width="80%" />
 </p>
 
 ---
